@@ -1,0 +1,4 @@
+num1=int(enter the input)
+num2=int(enter the input)
+sum=num1+num2
+print sum
